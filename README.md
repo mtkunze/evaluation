@@ -1,4 +1,4 @@
-evaluation
+Methods for Evaluating Process Model Search
 ==========
 
 Process model search has received significant interest in the scientific community recently, due to its precursory role for process model reuse. An abundance of diverse techniques has been proposed, yet few of them have been evaluated thoroughly, and a commonly agreed evaluation method is missing.
